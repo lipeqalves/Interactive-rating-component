@@ -4,16 +4,15 @@ import { useContext } from "react";
 import { MyContext } from "../../../context";
 import "./CardFinal.css";
 
+import thankYou from "../../assets/images/illustration-thank-you.svg";
+
 export const CardFinal = () => {
   const { voto } = useContext(MyContext);
   return (
     <main>
       <div className="conteiner">
         <div className="image">
-          <img
-            src="../../../images/illustration-thank-you.svg"
-            alt="icon obrigado"
-          />
+          <img src={thankYou} alt="icon obrigado" />
         </div>
         <div className="resultados">
           <p className="resultado">You selected {voto} out of 5</p>

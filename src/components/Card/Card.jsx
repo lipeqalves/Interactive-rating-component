@@ -4,9 +4,16 @@ import { Button } from "../Button/Button";
 import "./Card.css";
 import { useContext } from "react";
 
+import star from "../../assets/images/icon-star.svg";
 export const Card = () => {
-  const { handleVoto, handleHabilitar, habilitado, handleColor, btnColor, handleIsVisible } =
-    useContext(MyContext);
+  const {
+    handleVoto,
+    handleHabilitar,
+    habilitado,
+    handleColor,
+    btnColor,
+    handleIsVisible,
+  } = useContext(MyContext);
 
   const desabilitar = (valor) => {
     handleHabilitar();
@@ -19,12 +26,7 @@ export const Card = () => {
       <div className="conteiner">
         <div className="image">
           <div>
-            <img
-              src="./images/icon-star.svg"
-              width="25"
-              height="25"
-              alt="icone de estrela"
-            />
+            <img src={star} width="25" height="25" alt="icone de estrela" />
           </div>
         </div>
 
@@ -83,7 +85,7 @@ export const Card = () => {
           </button>
         </div>
         <div className="btn">
-          <Button onClick={() => handleIsVisible()} name="Submit"/>
+          <Button onClick={() => handleIsVisible()} name="Submit" />
         </div>
       </div>
     </main>
