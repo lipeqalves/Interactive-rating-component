@@ -1,0 +1,9 @@
+ .home {
+  max-width: 1024px;
+  height: auto;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+} 
