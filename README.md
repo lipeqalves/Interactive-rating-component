@@ -33,7 +33,7 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://interactive-rating-component-omega-mauve.vercel.app/)
+- Solution URL: [Interactive rating component](https://interactive-rating-component-omega-mauve.vercel.app/)
 
 ## Meu Processo
 
