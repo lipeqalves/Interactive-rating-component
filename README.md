@@ -1,10 +1,10 @@
-# Frontend Mentor - Interactive rating component solution
+# Welcome! 👋
 
-Esta é uma solução para o [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI).Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação através da construção de projetos realistas.
+## Frontend Mentor - Interactive rating component solution
 
-## Welcome! 👋
+Esta é uma solução para o [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação através da construção de projetos realistas.
 
-## Índice
+### Índice
 
 - [Visão geral](#visão-geral)
   - [O desafio](#o-desafio)
@@ -12,13 +12,13 @@ Esta é uma solução para o [Interactive rating component challenge on Frontend
   - [Links](#links)
 - [Desenvolvimento](#desenvolvimento)
   - [Tecnologias](#tecnologias)
-  - [O que eu aprendi](#o-que-eu-aprendi)
+  - [Aprendizado](#aprendizado)
   - [Próximos Passos](#próximos-passos)
-- [Author](#author)
+- [Autor](#autor)
 
-## Visão geral
+### Visão geral
 
-### O desafio
+#### O desafio
 
 Os usuários devem ser capazes de:
 
@@ -27,17 +27,17 @@ Os usuários devem ser capazes de:
 - Selecione e envie uma classificação numérica
 - Veja o estado do cartão "Thank you" após enviar uma avaliação
 
-### Screenshot
+#### Screenshot
 
 ![Alt text](image.png)
 
-### Links
+#### Links
 
 - Solution URL: [Interactive rating component](https://interactive-rating-component-omega-mauve.vercel.app/)
 
-## Desenvolvimento
+### Desenvolvimento
 
-### Tecnologias
+#### Tecnologias
 
 - HTML5 semântica
 - CSS
@@ -45,9 +45,9 @@ Os usuários devem ser capazes de:
 - Layout Responsivo
 - [React](https://reactjs.org/) - JS library
 
-### O que eu aprendi
+#### Aprendizado
 
-Meu principal objetivo com esse projeto é particar o desenvolvimeto de web com React, o principal conceito colocado em pratica foi o Context Api, que foi utilizado para gerenciar o estado global de uma aplicação React. Ela permite compartilhar dados (como estado) entre componentes sem a necessidade de passar props manualmente entre eles.
+Meu principal objetivo com esse projeto é praticar o desenvolvimento de web com React, o principal conceito colocado em prática foi o Context Api, que foi utilizado para gerenciar o estado global de uma aplicação React. Ela permite compartilhar dados (como estado) entre componentes sem a necessidade de passar props manualmente entre eles.
 
 ```js
 import React, { createContext, useState } from 'react';
@@ -67,11 +67,11 @@ export function MeuContextoProvider({ children }) {
 }
 ```
 
-### Próximos Passos
+#### Próximos Passos
 
 Continuarei estudando ReactJs, e meu próximo objetivo é usar Redux nos projetos.
 
-## Author
+### Autor
 
 - Linkedin - [Filipe Alves](https://www.linkedin.com/in/filipeqalves/)
 - Frontend Mentor - [@lipeqalves](https://www.frontendmentor.io/profile/lipeqalves)
