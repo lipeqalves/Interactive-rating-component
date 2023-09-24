@@ -20,16 +20,17 @@ Esta é uma solução para o [Interactive rating component challenge on Frontend
 
 #### O desafio
 
-Os usuários devem ser capazes de:
+O projeto:
 
-- Veja o layout ideal para o aplicativo dependendo do tamanho da tela do dispositivo
-- Veja os estados de foco para todos os elementos interativos na página
-- Selecione e envie uma classificação numérica
-- Veja o estado do cartão "Thank you" após enviar uma avaliação
+- Layout responsivo
+- Ter os estados de foco para todos os elementos interativos na página
+- Selecionar e enviar uma classificação numérica
+- Ter o estado do cartão "Thank you" apos enviar uma avaliação
 
 #### Screenshot
 
 ![Alt text](image.png)
+![Alt text](image-1.png)
 
 #### Links
 
