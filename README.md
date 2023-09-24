@@ -29,7 +29,7 @@ Os usuários devem ser capazes de:
 
 ### Screenshot
 
-(![Alt text](image.png)
+![Alt text](image.png)
 
 ### Links
 
