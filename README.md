@@ -10,8 +10,8 @@ Esta é uma solução para o [Interactive rating component challenge on Frontend
   - [O desafio](#o-desafio)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [Meu Processo](#meu-processo)
-  - [Construído com](#construído-com)
+- [Desenvolvimento](#desenvolvimento)
+  - [Tecnologias](#tecnologias)
   - [O que eu aprendi](#o-que-eu-aprendi)
   - [Próximos Passos](#próximos-passos)
 - [Author](#author)
@@ -35,14 +35,14 @@ Os usuários devem ser capazes de:
 
 - Solution URL: [Interactive rating component](https://interactive-rating-component-omega-mauve.vercel.app/)
 
-## Meu Processo
+## Desenvolvimento
 
-### Construído com
+### Tecnologias
 
 - HTML5 semântica
-- CSS custom properties
+- CSS
 - Flexbox
-- Fluxo de trabalho voltado para dispositivos móveis
+- Layout Responsivo
 - [React](https://reactjs.org/) - JS library
 
 ### O que eu aprendi
